@@ -11,3 +11,12 @@ A structured collection of technical write-ups, methodology documentation, and v
 ├── Vulnerability-Assessment/
 │   └── metasploitable-enumeration.md
 └── README.md
+```
+🛠️ Focus Areas
+Host Reconnaissance & Service Enumeration (nmap, gobuster)
+
+Packet & Log Analysis (wireshark, system authentication logs)
+
+Vulnerability Assessment & Triage Reporting
+
+Maintained by Victor Murithi (@VmurithiSecOps)
